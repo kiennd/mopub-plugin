@@ -8,7 +8,6 @@
     <repo>https://github.com/ludei/atomic-plugins-ads</repo>
     <keywords>cordova,ads,banner,interstitial,monetization,ad,mopub</keywords>
     <platform name="android">
-
         <source-file src="src/com/ludei/ads/mopub/AdBannerMoPub.java" target-dir="src/com/ludei/ads/mopub"/>
         <source-file src="src/com/ludei/ads/mopub/AdInterstitialMoPub.java" target-dir="src/com/ludei/ads/mopub"/>
         <source-file src="src/com/ludei/ads/mopub/AdRewardedMoPub.java" target-dir="src/com/ludei/ads/mopub"/>
