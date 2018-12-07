@@ -71,4 +71,5 @@ dependencies {
     implementation("com.mopub:mopub-sdk:5.4.0@aar") {
         transitive = true
     }
+    compile 'com.google.android.gms:play-services-games:15.+'
 }
